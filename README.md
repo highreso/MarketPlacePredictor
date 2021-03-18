@@ -12,3 +12,6 @@ pip install matplot lib
 pip install seaborn
 git clone https://github.com/s4w3d0ff/python-poloniex.git
 pip install --upgrade poloniexapi
+
+>## memo
+インスタンスで動かないがwin環境では動く(conda: yolo)
